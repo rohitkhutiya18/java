@@ -24,10 +24,6 @@ public class InstersectionOfArray {
             System.out.println(val);
         }
 
-
-        System.out.println(mi.get(7));
-
-
      
     }    
 }

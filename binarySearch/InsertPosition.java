@@ -1,7 +1,7 @@
 public class InsertPosition {
      public static void main(String[] args) {
          int arr [] ={1,2,3,4,6};
-         int val = 5;
+         int val = 7;
 
          int st = 0,end = arr.length-1;
          int ans = -1;
