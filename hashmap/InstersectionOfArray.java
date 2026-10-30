@@ -9,7 +9,7 @@ public class InstersectionOfArray {
         HashMap<Integer,Integer> mi= new HashMap<>();
         
         for(int val : a){
-            mi.put(val, mi.getOrDefault(val, 0) + 1);
+           mi.put(val, mi.getOrDefault(val, 0) + 1);
         }
 
        ArrayList<Integer> ai = new ArrayList<>();
