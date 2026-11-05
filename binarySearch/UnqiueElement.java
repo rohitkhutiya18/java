@@ -13,7 +13,7 @@ public class UnqiueElement {
                 end = mid;
             }
         }
-
+        
         return arr[st];
     }
 
